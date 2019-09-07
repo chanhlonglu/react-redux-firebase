@@ -1,7 +1,7 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import Home from "components/Home";
-import Posts from "components/Posts";
+import Home from "./Home";
+import Posts from "./Posts";
 
 class App extends React.Component {
   render() {
